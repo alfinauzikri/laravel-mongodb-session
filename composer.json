@@ -4,7 +4,7 @@
     "type": "library",
     "version": "6.0.0",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "illuminate/session": "^11.0",
         "mongodb/laravel-mongodb": "^4.0"
     },
